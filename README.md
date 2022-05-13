@@ -23,7 +23,7 @@ A simple web application provides basic information upon requested pokemon using
 
 ### Getting Started
 
-[Click Here!]() to navigate to the app
+[Click Here!](https://gotslaqks12.github.io/POKEMON-API/) to navigate to the app
 
 ---
 
